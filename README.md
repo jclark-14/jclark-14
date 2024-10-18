@@ -17,7 +17,9 @@ I'm seeking **full-time remote roles** or opportunities in the **metro Atlanta a
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" 
          alt="Left Speech Bubble" 
          width="25" height="25" 
-         style="vertical-align: middle;" />
+         style="vertical-align: middle;" 
+      text="bottom"
+      />
   </h3>
   <a href="https://www.linkedin.com/in/clark-jody/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
