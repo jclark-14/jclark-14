@@ -12,7 +12,7 @@ I'm seeking full-time remote roles or opportunities in the metro Atlanta area to
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clark-jody/)
 
-[![Jody's GitHub stats](https://github-readme-stats.vercel.app/api?username=jclark-14&show_icons=true&theme=algolia)](https://github.com/jclark-14/github-readme-stats)
+[![Jody's GitHub stats](https://github-readme-stats.vercel.app/api?username=jclark-14&show_icons=true&theme=algolia)](https://github.com/jclark-14)
 
 <h3>📚 Stack</h3>
 
