@@ -36,7 +36,6 @@ I'm seeking **full-time remote roles** or opportunities in the **metro Atlanta a
   </tr>
 </table>
 
-<img src="https://leetcode-stats-api.herokuapp.com/your-jclark14?theme=dark" alt="LeetCode Stats" />
 
 
 ---
