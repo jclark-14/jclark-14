@@ -1,4 +1,4 @@
-<h1 style="text-center">Hi there 👋</h1>
+<h1 style="text:center">Hi there 👋</h1>
 
 I’m Jody Clark</h1>
 
