@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Jody 👋</h1>
+<h1 align="center">Hey there, I'm Jody! 👋</h1>
 
 <h3 align="center">💻 Full-Stack Web Developer | 🩺 Former Registered Nurse in Atlanta, GA!</h3>
 
@@ -10,17 +10,21 @@ I'm seeking **full-time remote roles** or opportunities in the **metro Atlanta a
 
 ---
 
-### Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clark-jody/)
-
-<div style="margin-top: 10px;">
-  <strong>🔍 Quick Facts</strong>
-  <ul>
-    <li>🩺 15 years of problem-solving experience as a registered nurse</li>
-    <li>💻 Passionate about front-end development and creating intuitive user experiences</li>
-    <li>🌍 Seeking remote roles or opportunities in the metro Atlanta area</li>
-    <li>🧚 Currently working on the Enchanted Garden Marketplace, a whimsical app to showcase creativity and technical skills</li>
-  </ul>
+<div style="display: flex; align-items: center;">
+  <div style="margin-right: 20px;">
+    <a href="https://www.linkedin.com/in/clark-jody/">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </div>
+  <div>
+    <strong>🔍 Quick Facts</strong>
+    <ul>
+      <li>🩺 15 years of problem-solving experience as a registered nurse</li>
+      <li>💻 Passionate about front-end development and creating intuitive user experiences</li>
+      <li>🌍 Seeking remote roles or opportunities in the metro Atlanta area</li>
+      <li>🧚 Currently working on the Enchanted Garden Marketplace, a whimsical app to showcase creativity and technical skills</li>
+    </ul>
+  </div>
 </div>
 
 ---
@@ -31,9 +35,11 @@ I'm seeking **full-time remote roles** or opportunities in the **metro Atlanta a
       <img src="https://github-readme-stats.vercel.app/api?username=jclark-14&show_icons=true&theme=algolia" alt="Jody's GitHub stats" />
     </td>
     <td valign="middle" width="50%">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jclark-14&layout=compact&theme=algolia" alt="Top Languages" />
-      </a>
+      <div align="center">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jclark-14&layout=compact&theme=algolia" alt="Top Languages" />
+        </a>
+      </div>
     </td>
   </tr>
 </table>
@@ -65,6 +71,7 @@ I'm seeking **full-time remote roles** or opportunities in the **metro Atlanta a
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
+
 
 
 
