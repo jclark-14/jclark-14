@@ -12,7 +12,12 @@ I'm seeking **full-time remote roles** or opportunities in the **metro Atlanta a
 
 ### Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clark-jody/)
-
+   <ul>
+          <li>🩺 15 years of problem-solving experience as a registered nurse</li>
+          <li>💻 Passionate about front-end development and creating intuitive user experiences</li>
+          <li>🌍 Seeking remote roles or opportunities in the metro Atlanta area</li>
+          <li>🧚 Currently working on the Enchanted Garden Marketplace, a whimsical app to showcase creativity and technical skills</li>
+        </ul>
 ---
 
 <table>
@@ -23,12 +28,7 @@ I'm seeking **full-time remote roles** or opportunities in the **metro Atlanta a
     <td valign="top" width="50%">
       <div style="margin: 0; padding: 0;">
         <strong>🔍 Quick Facts</strong>
-        <ul>
-          <li>🩺 15 years of problem-solving experience as a registered nurse</li>
-          <li>💻 Passionate about front-end development and creating intuitive user experiences</li>
-          <li>🌍 Seeking remote roles or opportunities in the metro Atlanta area</li>
-          <li>🧚 Currently working on the Enchanted Garden Marketplace, a whimsical app to showcase creativity and technical skills</li>
-        </ul>
+     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jclark-14)](https://github.com/anuraghazra/github-readme-stats)
       </div>
     </td>
   </tr>
