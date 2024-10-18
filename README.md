@@ -13,12 +13,7 @@ I'm seeking **full-time remote roles** or opportunities in the **metro Atlanta a
 
 <div style="margin-right: 20px;">
   <h3 style="display: inline; margin: 0;">
-    <img 
-      src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" 
-      alt="Left Speech Bubble" 
-      width="25" height="25" 
-      style="vertical-align: bottom; margin-top: 10px;" 
-    /> Let's Connect!
+Let's Connect!
    
   </h3>
   <a href="https://www.linkedin.com/in/clark-jody/">
