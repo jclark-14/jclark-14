@@ -10,7 +10,7 @@ I recently completed the LearningFuze bootcamp, gaining a solid foundation in fu
 I'm seeking full-time remote roles or opportunities in the metro Atlanta area to collaborate, grow, and contribute meaningfully. 🚀
 
 <h3>🛠 Tech Stack</h3>
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 <!--
 **jclark-14/jclark-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
