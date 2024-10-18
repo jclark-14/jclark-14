@@ -13,7 +13,7 @@ I'm seeking **full-time remote roles** or opportunities in the **metro Atlanta a
 
   <div style="margin-right: 20px;">
     <h3>Let's Connect! </h3>
-   🔗<a href="https://www.linkedin.com/in/clark-jody/">
+   <a href="https://www.linkedin.com/in/clark-jody/">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a> 
   </div>
