@@ -12,12 +12,12 @@ I'm seeking full-time remote roles or opportunities in the metro Atlanta area to
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clark-jody/)
 
-<table border="0">
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=jclark-14&show_icons=true&theme=algolia" alt="Jody's GitHub stats" />
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🔍 Quick Facts</h3>
       <ul>
         <li>🩺 15 years of problem-solving experience as a registered nurse</li>
