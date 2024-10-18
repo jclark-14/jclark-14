@@ -19,7 +19,7 @@ I'm seeking full-time remote roles or opportunities in the metro Atlanta area to
     </td>
     <td width="50%" valign="top">
       <h3>🔍 Quick Facts</h3>
-      <ul>
+      <ul text>
         <li>🩺 15 years of problem-solving experience as a registered nurse</li>
         <li>🎓 Graduate of LearningFuze bootcamp with a focus on full-stack development</li>
         <li>💻 Passionate about front-end development and creating intuitive user experiences</li>
