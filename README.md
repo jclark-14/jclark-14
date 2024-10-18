@@ -41,8 +41,7 @@ I'm seeking full-time remote roles or opportunities in the metro Atlanta area to
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jclark-14&lawncare-pro&theme=github_dark)](https://github.com/jclark-14/lawncare-pro)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jclark-14&repo=lawncare-pro&theme=github_dark)](https://github.com/jclark-14/lawncare-pro)
 
 <!--
 **jclark-14/jclark-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
