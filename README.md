@@ -12,12 +12,17 @@ I'm seeking **full-time remote roles** or opportunities in the **metro Atlanta a
 
 ### Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clark-jody/)
-   <ul>
-          <li>🩺 15 years of problem-solving experience as a registered nurse</li>
-          <li>💻 Passionate about front-end development and creating intuitive user experiences</li>
-          <li>🌍 Seeking remote roles or opportunities in the metro Atlanta area</li>
-          <li>🧚 Currently working on the Enchanted Garden Marketplace, a whimsical app to showcase creativity and technical skills</li>
-        </ul>
+
+<div style="margin-top: 10px;">
+  <strong>🔍 Quick Facts</strong>
+  <ul>
+    <li>🩺 15 years of problem-solving experience as a registered nurse</li>
+    <li>💻 Passionate about front-end development and creating intuitive user experiences</li>
+    <li>🌍 Seeking remote roles or opportunities in the metro Atlanta area</li>
+    <li>🧚 Currently working on the Enchanted Garden Marketplace, a whimsical app to showcase creativity and technical skills</li>
+  </ul>
+</div>
+
 ---
 
 <table>
@@ -25,11 +30,10 @@ I'm seeking **full-time remote roles** or opportunities in the **metro Atlanta a
     <td valign="middle" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=jclark-14&show_icons=true&theme=algolia" alt="Jody's GitHub stats" />
     </td>
-    <td valign="top" width="50%">
-      <div style="margin: 0; padding: 0;">
-        <strong>🔍 Quick Facts</strong>
-     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jclark-14)](https://github.com/anuraghazra/github-readme-stats)
-      </div>
+    <td valign="middle" width="50%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jclark-14&layout=compact&theme=algolia" alt="Top Languages" />
+      </a>
     </td>
   </tr>
 </table>
@@ -61,6 +65,7 @@ I'm seeking **full-time remote roles** or opportunities in the **metro Atlanta a
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
+
 
 
 
