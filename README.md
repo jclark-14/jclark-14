@@ -23,7 +23,7 @@ I'm seeking **full-time remote roles** or opportunities in the **metro Atlanta a
     <td valign="top" width="50%">
       <div style="margin: 0; padding: 0;">
         <strong>🔍 Quick Facts</strong>
-        <ul>
+        <ul style="font-size: 14px;">
           <li>🩺 15 years of problem-solving experience as a registered nurse</li>
           <li>💻 Passionate about front-end development and creating intuitive user experiences</li>
           <li>🌍 Seeking remote roles or opportunities in the metro Atlanta area</li>
