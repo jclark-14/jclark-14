@@ -21,14 +21,16 @@ I'm seeking **full-time remote roles** or opportunities in the **metro Atlanta a
       <img src="https://github-readme-stats.vercel.app/api?username=jclark-14&show_icons=true&theme=algolia" alt="Jody's GitHub stats" />
     </td>
     <td valign="top" width="50%">
-      <h3>🔍 Quick Facts</h3>
-      <ul>
-        <li>🩺 15 years of problem-solving experience as a registered nurse</li>
-        <li>💻 Love about front-end development and creating smooth user experiences</li>
-        <li>🌍 Seeking remote roles or opportunities in the metro Atlanta area</li>
-        <li>🧑‍🏫 Lifelong learner, actively sharpening skills with LeetCode challenges</li>
-        <li>🧚 Currently working on the Enchanted Garden Marketplace, a whimsical app to showcase creativity and technical skills</li>
-      </ul>
+      <div style="margin: 0; padding: 0;">
+        <strong>🔍 Quick Facts</strong>
+        <ul>
+          <li>🩺 15 years of problem-solving experience as a registered nurse</li>
+          <li>💻 Passionate about front-end development and creating intuitive user experiences</li>
+          <li>🌍 Seeking remote roles or opportunities in the metro Atlanta area</li>
+          <li>🧑‍🏫 Lifelong learner, actively sharpening skills with LeetCode challenges</li>
+          <li>🧚 Currently working on the Enchanted Garden Marketplace, a whimsical app to showcase creativity and technical skills</li>
+        </ul>
+      </div>
     </td>
   </tr>
 </table>
