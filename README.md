@@ -8,7 +8,7 @@ I'm a web developer with a love for building user-friendly, dynamic applications
 I recently completed the LearningFuze bootcamp, gaining a solid foundation in full-stack development. While I enjoy working across the stack, I'm most excited by front-end development, where I focus on designing smooth, intuitive user experiences.
 I'm seeking full-time remote roles or opportunities in the metro Atlanta area to collaborate, grow, and contribute meaningfully. 🚀
 
-Lets connect!
+<h3>Lets connect!</h3>
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
