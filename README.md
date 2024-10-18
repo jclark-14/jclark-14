@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Jody! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /></h1>
+<h1 align="center">Hey there, I'm Jody! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /></h1>
 
 <h3 align="center">💻 Full-Stack Web Developer | 🩺 Former Registered Nurse in Atlanta, GA!</h3>
 
