@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-<h3 align="center">I’m Jody, a 🩺 Registered Nurse turned 💻 Full-Stack Web Developer in Atlanta, GA!</h3>
+<h3 align="center">I’m Jody, a  Registered Nurse🩺 turned Full-Stack Web Developer 💻  in Atlanta, GA!</h3>
 
 <h4>👨‍💻 About Me</h4>
 I’m a web developer with a love for building user-friendly, dynamic applications. Before tech, I spent 15 years as a registered nurse, honing skills in problem-solving, critical thinking, and teamwork.
