@@ -17,8 +17,8 @@ I'm seeking **full-time remote roles** or opportunities in the **metro Atlanta a
 
 <table>
   <tr>
-    <td valign="top" width="50%">
-      <img style="margin-top: 20px; padding: 0;" src="https://github-readme-stats.vercel.app/api?username=jclark-14&show_icons=true&theme=algolia" alt="Jody's GitHub stats" />
+    <td valign="middle" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=jclark-14&show_icons=true&theme=algolia" alt="Jody's GitHub stats" />
     </td>
     <td valign="top" width="50%">
       <div style="margin: 0; padding: 0;">
@@ -27,7 +27,6 @@ I'm seeking **full-time remote roles** or opportunities in the **metro Atlanta a
           <li>🩺 15 years of problem-solving experience as a registered nurse</li>
           <li>💻 Passionate about front-end development and creating intuitive user experiences</li>
           <li>🌍 Seeking remote roles or opportunities in the metro Atlanta area</li>
-          <li>🧑‍🏫 Lifelong learner, actively sharpening skills with LeetCode challenges</li>
           <li>🧚 Currently working on the Enchanted Garden Marketplace, a whimsical app to showcase creativity and technical skills</li>
         </ul>
       </div>
