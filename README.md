@@ -10,22 +10,14 @@ I'm seeking **full-time remote roles** or opportunities in the **metro Atlanta a
 
 ---
 
-<div style="display: flex; align-items: center;">
+
   <div style="margin-right: 20px;">
+    <h3>Let's Connect!</h3>
     <a href="https://www.linkedin.com/in/clark-jody/">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </div>
-  <div>
-    <strong>🔍 Quick Facts</strong>
-    <ul>
-      <li>🩺 15 years of problem-solving experience as a registered nurse</li>
-      <li>💻 Passionate about front-end development and creating intuitive user experiences</li>
-      <li>🌍 Seeking remote roles or opportunities in the metro Atlanta area</li>
-      <li>🧚 Currently working on the Enchanted Garden Marketplace, a whimsical app to showcase creativity and technical skills</li>
-    </ul>
-  </div>
-</div>
+
 
 ---
 
