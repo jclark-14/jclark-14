@@ -9,6 +9,7 @@ I recently completed the LearningFuze bootcamp, gaining a solid foundation in fu
 I'm seeking full-time remote roles or opportunities in the metro Atlanta area to collaborate, grow, and contribute meaningfully. 🚀
 
 Lets connect!
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 📚 Stack
 
