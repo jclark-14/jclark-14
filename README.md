@@ -12,20 +12,24 @@ I'm seeking full-time remote roles or opportunities in the metro Atlanta area to
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clark-jody/)
 
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jclark-14&show_icons=true&theme=algolia" alt="Jody's GitHub stats" style="max-width: 50%;" />
-  <div style="margin-left: 20px;">
-    <h3>🔍 Quick Facts</h3>
-    <ul style="font-size: 14px;">
-      <li>🩺 15 years of problem-solving experience as a registered nurse</li>
-      <li>🎓 Graduate of LearningFuze bootcamp with a focus on full-stack development</li>
-      <li>💻 Passionate about front-end development and creating intuitive user experiences</li>
-      <li>🧑‍🏫 Lifelong learner, actively sharpening skills with LeetCode challenges</li>
-      <li>🧚 Currently working on the Enchanted Garden Marketplace, a whimsical app to showcase creativity and technical skills</li>
-    </ul>
-  </div>
-</div>
-
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=jclark-14&show_icons=true&theme=algolia" alt="Jody's GitHub stats" />
+    </td>
+    <td valign="top" width="50%">
+      <h3>🔍 Quick Facts</h3>
+      <ul style="font-size: 14px;">
+        <li>🩺 15 years of problem-solving experience as a registered nurse</li>
+        <li>🎓 Graduate of LearningFuze bootcamp with a focus on full-stack development</li>
+        <li>💻 Passionate about front-end development and creating intuitive user experiences</li>
+        <li>🌍 Seeking remote roles or opportunities in the metro Atlanta area</li>
+        <li>🧑‍🏫 Lifelong learner, actively sharpening skills with LeetCode challenges</li>
+        <li>🧚 Currently working on the Enchanted Garden Marketplace, a whimsical app to showcase creativity and technical skills</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 
 
