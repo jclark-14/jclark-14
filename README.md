@@ -1,5 +1,11 @@
-💻 Full-Stack Web Developer | 🩺 Former Registered Nurse
-I'm a passionate web developer with a unique background in healthcare, bringing 15 years of problem-solving and critical thinking experience from my career as a registered nurse to the world of tech.
+Hi there 👋, I’m Jody Clark
+
+👨‍💻About Me
+I’m a web developer with a passion for building user-friendly, dynamic applications. Before tech, I spent 15 years as a registered nurse, honing skills in problem-solving, critical thinking, and teamwork.
+
+In 2024, I completed the LearningFuze bootcamp, gaining a solid foundation in full-stack development. While I enjoy working across the stack, I’m most excited by front-end development, where I focus on designing smooth, intuitive user experiences.
+
+I'm seeking full-time remote roles or opportunities in the metro Atlanta area to collaborate, grow, and contribute meaningfully. 🚀
 
 <!--
 **jclark-14/jclark-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
