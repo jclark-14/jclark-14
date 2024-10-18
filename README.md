@@ -28,6 +28,7 @@ I'm seeking full-time remote roles or opportunities in the metro Atlanta area to
 </div>
 
 
+
  
 <h3>📚 Stack</h3>
 
