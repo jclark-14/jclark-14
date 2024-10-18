@@ -1,4 +1,5 @@
-## Hi there 👋
+💻 Full-Stack Web Developer | 🩺 Former Registered Nurse
+I'm a passionate web developer with a unique background in healthcare, bringing 15 years of problem-solving and critical thinking experience from my career as a registered nurse to the world of tech.
 
 <!--
 **jclark-14/jclark-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
