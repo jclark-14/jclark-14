@@ -5,7 +5,7 @@
 <h4>👨‍💻 About Me</h4>
 I’m a web developer with a love for building user-friendly, dynamic applications. Before tech, I spent 15 years as a registered nurse, honing skills in problem-solving, critical thinking, and teamwork.
 
-In 2024, I completed the LearningFuze bootcamp, gaining a solid foundation in full-stack development. While I enjoy working across the stack, I’m most excited by front-end development, where I focus on designing smooth, intuitive user experiences.
+I recently completed the LearningFuze bootcamp, gaining a solid foundation in full-stack development. While I enjoy working across the stack, I’m most excited by front-end development, where I focus on designing smooth, intuitive user experiences.
 
 I'm seeking full-time remote roles or opportunities in the metro Atlanta area to collaborate, grow, and contribute meaningfully. 🚀
 
