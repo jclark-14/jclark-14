@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-I’m Jody Clark</h1>
+<h3 align="center">I’m Jody, a Software Developer in Atlanta, GA!</h3>
 
 👨‍💻About Me
 I’m a web developer with a passion for building user-friendly, dynamic applications. Before tech, I spent 15 years as a registered nurse, honing skills in problem-solving, critical thinking, and teamwork.
