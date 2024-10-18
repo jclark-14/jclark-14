@@ -12,7 +12,7 @@ I'm seeking full-time remote roles or opportunities in the metro Atlanta area to
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clark-jody/)
 
-[![Jody's GitHub stats](https://github-readme-stats.vercel.app/api?username=jclark-14&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Jody's GitHub stats](https://github-readme-stats.vercel.app/api?username=jclark-14&show_icons=true&theme=algolia)](https://github.com/jclark-14/github-readme-stats)
 
 <h3>📚 Stack</h3>
 
@@ -40,8 +40,6 @@ I'm seeking full-time remote roles or opportunities in the metro Atlanta area to
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jclark-14&repo=lawncare-pro&theme=github_dark)](https://github.com/jclark-14/lawncare-pro)
 
 <!--
 **jclark-14/jclark-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
