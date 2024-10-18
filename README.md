@@ -12,6 +12,7 @@ I'm seeking full-time remote roles or opportunities in the metro Atlanta area to
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
+
 📚 Stack
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
