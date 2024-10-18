@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, Im Jody 👋</h1>
+<h1 align="center">Hey there, Im Jody 👋</h1>
 
 <h3 align="center">💻 Full-Stack Web Developer  | 🩺 Former Registered Nurse in Atlanta, GA!</h3>
 
