@@ -12,24 +12,25 @@ I'm seeking full-time remote roles or opportunities in the metro Atlanta area to
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clark-jody/)
 
-<table border="0" cellspacing="0" cellpadding="0" style="border: none;">
+<table>
   <tr>
-    <td width="50%" valign="top" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=jclark-14&show_icons=true&theme=algolia&hide_border=true" alt="Jody's GitHub stats" />
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=jclark-14&show_icons=true&theme=algolia" alt="Jody's GitHub stats" />
     </td>
-    <td width="50%" valign="top" style="border: none; padding-left: 10px;">
+    <td width="50%" valign="top">
       <h3>🔍 Quick Facts</h3>
-      <ul style="font-size: 14px;">
+      <ul>
         <li>🩺 15 years of problem-solving experience as a registered nurse</li>
         <li>🎓 Graduate of LearningFuze bootcamp with a focus on full-stack development</li>
         <li>💻 Passionate about front-end development and creating intuitive user experiences</li>
         <li>🌍 Seeking remote roles or opportunities in the metro Atlanta area</li>
-        <li>🧑‍🏫 Actively sharpening skills with LeetCode challenges</li>
+        <li>🧑‍🏫 Lifelong learner, actively sharpening skills with LeetCode challenges</li>
         <li>🧚 Currently working on the Enchanted Garden Marketplace, a whimsical app to showcase creativity and technical skills</li>
       </ul>
     </td>
   </tr>
 </table>
+
  
 <h3>📚 Stack</h3>
 
