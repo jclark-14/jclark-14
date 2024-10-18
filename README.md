@@ -41,7 +41,7 @@ I'm seeking full-time remote roles or opportunities in the metro Atlanta area to
 
 
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repo&theme=github_dark)](https://github.com/jclark-14/lawncare-pro)
 
 
 <!--
