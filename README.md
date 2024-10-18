@@ -24,8 +24,7 @@ I'm seeking **full-time remote roles** or opportunities in the **metro Atlanta a
       <h3>🔍 Quick Facts</h3>
       <ul>
         <li>🩺 15 years of problem-solving experience as a registered nurse</li>
-        <li>🎓 Graduate of LearningFuze bootcamp with a focus on full-stack development</li>
-        <li>💻 Passionate about front-end development and creating intuitive user experiences</li>
+        <li>💻 Love about front-end development and creating smooth user experiences</li>
         <li>🌍 Seeking remote roles or opportunities in the metro Atlanta area</li>
         <li>🧑‍🏫 Lifelong learner, actively sharpening skills with LeetCode challenges</li>
         <li>🧚 Currently working on the Enchanted Garden Marketplace, a whimsical app to showcase creativity and technical skills</li>
