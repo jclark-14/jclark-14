@@ -14,7 +14,7 @@ I'm seeking **full-time remote roles** or opportunities in the **metro Atlanta a
 <div style="margin-right: 20px;">
   <h3 style="display: inline; margin: 0;">
 Let's Connect!
-<!--    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> -->
+   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" />
   </h3>
   <a href="https://www.linkedin.com/in/clark-jody/">
     <img 
@@ -30,9 +30,9 @@ Let's Connect!
 
 <table>
   <tr>
-    <td valign="middle" width="50%">
+<!--     <td valign="middle" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=jclark-14&show_icons=true&theme=algolia" alt="Jody's GitHub stats" />
-    </td>
+    </td> -->
     <td valign="middle" width="50%">
       <div align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
