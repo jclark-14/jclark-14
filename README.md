@@ -33,15 +33,15 @@ Let's Connect!
 <!--     <td valign="middle" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=jclark-14&show_icons=true&theme=algolia" alt="Jody's GitHub stats" />
     </td> -->
-    <td valign="middle" width="50%">
+<!--     <td valign="middle" width="50%"> -->
       <div align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jclark-14&layout=compact&theme=algolia" alt="Top Languages" />
         </a>
-      </div>
+<!--       </div>
     </td>
   </tr>
-</table>
+</table> -->
 
 
 
